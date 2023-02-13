@@ -13,3 +13,16 @@ body {
 .container > img {
   width: 100vw;
 }
+
+/* header */
+.header {
+  position: absolute;
+  width: 100vw;
+
+  background: rgba(26, 84, 116, 0.8);
+  mix-blend-mode: normal;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
